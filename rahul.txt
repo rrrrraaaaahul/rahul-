@@ -1,0 +1,3 @@
+ip: rahulllly.aternos.me
+port: 41370
+name:rahulllly
